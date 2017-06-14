@@ -1,0 +1,7 @@
+https://msdn.microsoft.com/en-us/library/jj614587(v=vs.113).aspx
+
+https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/getting-started-with-ef-using-mvc/creating-an-entity-framework-data-model-for-an-asp-net-mvc-application
+
+https://www.google.es/search?q=entity+framework+school+database&rlz=1C1ASUM_enES709ES709&oq=Entity+Framework+school+d&aqs=chrome.1.69i57j0l2j69i60.5674j0j7&sourceid=chrome&ie=UTF-8#q=entity+framework+school+database+download
+
+https://msdn.microsoft.com/es-es/library/dn762121.aspx

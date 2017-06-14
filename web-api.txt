@@ -1,0 +1,16 @@
+https://docs.microsoft.com/es-es/aspnet/web-api/overview/security/enabling-cross-origin-requests-in-web-api
+
+https://julitogtu.wordpress.com/2013/12/11/asp-net-web-api-ihttpactionresult-ahora-en-web-api-2/
+
+http://desarrolladores.me/2014/03/asp-net-usando-ajax-con-jquery-y-c/
+
+https://sqlpsykrest.wordpress.com/2009/01/22/sql-procedimiento-almacenado-para-insertar-datos-con-transaccin-y-control-de-errores/
+
+https://weblog.west-wind.com/posts/2012/may/08/passing-multiple-post-parameters-to-web-api-controller-methods
+
+https://weblog.west-wind.com/posts/2013/Dec/13/Accepting-Raw-Request-Body-Content-with-ASPNET-Web-API
+
+https://www.exceptionnotfound.net/using-http-methods-correctly-in-asp-net-web-api/
+
+http://www.tutorialsteacher.com/webapi/implement-put-method-in-web-api
+
