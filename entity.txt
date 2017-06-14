@@ -5,3 +5,12 @@ https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/getting-sta
 https://www.google.es/search?q=entity+framework+school+database&rlz=1C1ASUM_enES709ES709&oq=Entity+Framework+school+d&aqs=chrome.1.69i57j0l2j69i60.5674j0j7&sourceid=chrome&ie=UTF-8#q=entity+framework+school+database+download
 
 https://msdn.microsoft.com/es-es/library/dn762121.aspx
+
+
+metadata=res://*/School.csdl|res://*/School.ssdl|res://*/School.msl;provider=System.Data.SqlClient;provider connection string="data source=.\SQLEXPRESS;initial catalog=SchoolDB;integrated security=True;MultipleActiveResultSets=True;App=EntityFramework"
+
+C:\Curso_micro\Development\ENTITY_FRAMEWORK\EFBasicTutorials\EFBasicTutorials
+
+http://panicoenlaxbox.blogspot.com.es/2013/04/romper-el-hielo-con-ef-code-first.html
+
+https://inxunxa.wordpress.com/2016/03/15/basico-entity-framework/
